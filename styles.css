@@ -1,0 +1,27 @@
+body {
+    font-family: JetBrains Mono;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+header {
+    display: flex;
+    background-color: black;
+    color: aliceblue;
+    font-size: 10px;
+    text-align: center;
+    height: 120;
+    align-items: center;
+    padding: 10px;
+}
+
+.logo {
+    width: 100px;
+    height: auto;
+    margin-right: 20px;
+    margin-left: 100px;
+}
